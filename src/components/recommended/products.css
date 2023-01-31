@@ -1,0 +1,56 @@
+.box .rtitle {
+    color: rgba(16, 16, 16, 0.94);
+    font-weight: 600;
+    
+    
+}
+.router{
+    border: 1px solid gray;
+    height: 350px;
+}
+
+.heading label{
+    
+    color: black;
+}
+
+.box .heading{
+    margin: 10px;
+    color: brown;
+    display: flex;
+    width: 25%;
+    height: 90%;
+    justify-content: center;
+    margin-right: 35%;
+    border: 1px solid gray;
+}
+
+.img {
+    width: 85%;
+    height: 85%;
+    
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.price .btn {
+    background-color: #e52312;
+    font-weight: 600;
+    font-size: 14px;
+    margin-left: 50px;
+}
+
+.form-check{
+    float: right;
+}
+
+.price{
+    align-items: center;
+}
+
+.product-details{
+    position: relative;
+}

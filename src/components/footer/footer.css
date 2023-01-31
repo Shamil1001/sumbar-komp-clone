@@ -1,0 +1,101 @@
+footer {
+    margin-top: 40px;
+    background-color: rgb(23, 23, 23);
+    color: blue;
+    height: 400px;    
+}
+footer li:hover{
+    cursor: pointer;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+.box1 .sumbarIcon {
+    width: 70%;
+    margin-top: -100px;
+}
+.address{
+    margin-top: -100px;
+    margin-bottom: 10px;
+}
+.email, .phoneNumber{
+    margin-bottom: 10px;
+}
+.iconBottom .socialApps i{
+    margin-left: 10px;
+    
+}
+.iconBottom .socialApps i:hover{
+    cursor: pointer;
+}
+
+.grid2 {
+    display: inline-grid;
+    grid-template-columns: 30% 70%;
+    padding: 10px;
+    margin-left: 50px;  
+
+}
+.about{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    
+}
+
+.box2{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.box2 .title{
+    font-size: 20px;
+}
+.box3 ul, .box4 ul{
+    display: grid;
+    grid-template-columns: 100%;
+    margin-bottom: -40px;
+    
+}
+.report{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.subscribe .input{
+    font-size: 20px;
+    font-weight: 650px;
+    margin-bottom: 10px;
+}
+.subscribe input{
+    width: 70%;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.reportProblem .helpWebsite{
+    font-size: 20px;
+    font-weight: 650px;
+    margin-bottom: 10px;
+}
+
+.reportProblem .problem{
+    font-size: 18px;
+    font-weight: 600;
+    width: 70%;
+}
+
+.hidden-btn{
+    display: inline-block;
+    position: relative;
+}
+
+.hidden-btn .compare-btn{
+    display: absolute;
+    
+}
+

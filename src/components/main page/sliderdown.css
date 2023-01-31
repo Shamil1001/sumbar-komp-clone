@@ -1,0 +1,26 @@
+/* ul{
+    overflow: hidden;
+    
+}
+
+li{
+    display: flex;
+    list-style: none;
+} */
+.slidedown{
+    display: flex;
+    justify-content: start;
+    margin-left: 0px;
+}
+.down img{
+    margin: 5px;
+    width: 50%;
+    height: 100%;
+}
+
+.down .slidedown{
+    height: 100%;
+    width: 100%;
+
+}
+

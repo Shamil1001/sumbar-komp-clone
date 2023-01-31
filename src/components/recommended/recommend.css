@@ -1,0 +1,65 @@
+body{
+    overflow-x: hidden;
+    
+}
+.box-cat .catName{
+    margin-left: 15%;
+    margin-right: 5%;
+    color: brown;
+}
+
+.box-cat .catName span{
+    display: inline;
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 5%;
+    font-weight: 650;
+    font-size: 20px;
+}
+.box-cat .catName span:hover{
+    cursor: pointer;
+}
+
+.filteredProducts {
+    max-width: 100%;
+    align-items: center;
+    text-align: center; 
+    gap: 5px;
+    
+}
+/* @media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+} */
+.filteredProducts .cards{
+    width: 70%;
+    
+    
+}
+
+.filteredProducts{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    height: 500px;
+}
+
+.form-check{
+    margin-left: 10px;
+    
+}
+.form-check .like{
+    margin-left: 10px;
+}
+.form-check .like:hover{
+    cursor: pointer;
+}
+
+.filteredProducts .cardImg{
+    object-fit: contain;
+    width: 80%;
+    
+}

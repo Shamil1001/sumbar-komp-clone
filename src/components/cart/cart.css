@@ -1,0 +1,18 @@
+
+.cart-items .table-image{
+    width: 20%;
+}
+
+.cart-items h2{
+    margin-left: 50%;
+    margin-bottom: 30px;
+}
+.table{
+    width: 100%;
+}
+
+.cart-items .amount .btn{
+    margin: 15px;
+}
+
+

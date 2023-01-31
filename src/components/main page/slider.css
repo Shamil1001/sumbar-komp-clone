@@ -1,0 +1,26 @@
+ .slider{ 
+    width: 75%;
+    /* height: 100%; */
+    
+} 
+
+.slide img{
+    height: 60vh;
+    width: 70vw;
+}
+
+.slide{
+    margin-top: 20px;
+    /* margin-left: -200px; */
+    margin-right: 50px;
+    opacity: 0;
+    transform: translateX(50%);
+    transition: 1s;
+}
+
+.current{
+    opacity: 1;
+    transform: translateX(0);
+}
+
+

@@ -1,0 +1,385 @@
+/* -----------dropdown--------------- */
+.cat2 a:hover,
+.cat3 a:hover,
+.cat4 a:hover,
+.cat5 a:hover,
+.cat6 a:hover,
+.cat7 a:hover,
+.cat8 a:hover,
+.cat9 a:hover,
+.cat10 a:hover,
+.cat11 a:hover,
+.cat12 a:hover,
+.cat13 a:hover,
+.cat14 a:hover,
+.cat15 a:hover {
+    background-color: gray;
+}
+
+.cat2 {
+    display: none;
+    position: absolute;
+    /* margin: 0px 60px; */
+    margin-left: 1em;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+}
+
+@media (min-width: 480px) {
+    .cat2{
+        margin-right: 100vw;
+    }
+}
+
+.cat2 a {
+    color: black;
+    padding: 5px 0px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+}
+
+.cat3 {
+    display: none;
+    position: absolute;
+    margin-left: 7vw;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+
+}
+
+.cat3 a {
+    color: black;
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+}
+
+.cat4 {
+    display: none;
+    position: absolute;
+    margin-left: 115px;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+
+}
+
+.cat4 a {
+    color: black;
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+}
+
+.cat5 {
+    display: none;
+    position: absolute;
+    margin-left: 45px;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+
+}
+
+.cat5 a {
+    color: black;
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+}
+
+.cat6 {
+    display: none;
+    position: absolute;
+    margin-left: 45px;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+
+}
+
+.cat6 a {
+    color: black;
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+}
+
+.cat7 {
+    display: none;
+    position: absolute;
+    margin-left: 30px;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+
+}
+
+.cat7 a {
+    color: black;
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+}
+
+.cat8 {
+    display: none;
+    position: absolute;
+    margin-left: 5px;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+
+}
+
+.cat8 a {
+    color: black;
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+}
+
+.cat9 {
+    display: none;
+    position: absolute;
+    margin-left: 20px;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+
+}
+
+.cat9 a {
+    color: black;
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+}
+
+.cat10 {
+    display: none;
+    position: absolute;
+    margin-left: 70px;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+
+}
+
+.cat10 a {
+    color: black;
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+}
+
+.cat11 {
+    display: none;
+    position: absolute;
+    margin-left: 80px;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+
+}
+
+.cat11 a {
+    color: black;
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+}
+
+.cat12 {
+    display: none;
+    position: absolute;
+    margin-left: 40px;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+
+}
+
+.cat12 a {
+    color: black;
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+}
+
+.cat13 {
+    display: none;
+    position: absolute;
+    margin-left: 105px;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+
+}
+
+.cat13 a {
+    color: black;
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+}
+
+.cat14 {
+    display: none;
+    position: absolute;
+    margin-left: 85px;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+
+}
+
+.cat14 a {
+    color: black;
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+}
+
+.cat15 {
+    display: none;
+    position: absolute;
+    margin-left: 105px;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+
+}
+
+.cat15 a {
+    color: black;
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+}
+
+/* ------------------------------------ */
+.ACCESSORIES .box:hover .cat2 {
+    display: block;
+}
+
+.PERIPHERY .box:hover .cat3 {
+    display: block;
+}
+
+.STORAGE .box:hover .cat4 {
+    display: block;
+}
+
+.AIO .box:hover .cat5 {
+    display: block;
+}
+
+.MOBILE .box:hover .cat6 {
+    display: block;
+}
+
+.LAPTOPS .box:hover .cat7 {
+    display: block;
+}
+
+.PRINTER .box:hover .cat8 {
+    display: block;
+}
+
+.NETWORK .box:hover .cat9 {
+    display: block;
+}
+
+.SAFETY .box:hover .cat10 {
+    display: block;
+}
+
+.AUTOMATION .box:hover .cat11 {
+    display: block;
+}
+
+.UPS .box:hover .cat12 {
+    display: block;
+}
+
+.FURNITURE .box:hover .cat13 {
+    display: block;
+}
+
+.APPLIANCESS .box:hover .cat14 {
+    display: block;
+}
+
+.DIFFERENT .box:hover .cat15 {
+    display: block;
+}
+
+.LAPTOPS .box:hover .cat7 {
+    display: block;
+}
+
+/* -----------dropdown--------------- */
+
+a img{
+    position: relative;
+    margin-left: -10px;
+}
